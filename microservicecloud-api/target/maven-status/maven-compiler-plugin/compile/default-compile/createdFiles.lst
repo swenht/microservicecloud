@@ -1,0 +1,4 @@
+com\atguigu\springcloud\serive\DeptClientService.class
+com\atguigu\springcloud\serive\DeptClientServiceFallbackFactory.class
+com\atguigu\springcloud\entities\Dept.class
+com\atguigu\springcloud\serive\DeptClientServiceFallbackFactory$1.class
